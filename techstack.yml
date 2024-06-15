@@ -1,0 +1,1026 @@
+repo_name: DrivenIdeaLab/BentoML
+report_id: cdf409abadbe2e8896c8b4c6b33bbc13
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-15T17:59:24+00:00'
+requested_by: Sherlock113
+provider: github
+branch: main
+detected_tools_count: 75
+tools:
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML
+  detection_source: Repo Metadata
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML
+  detection_source: Repo Metadata
+- name: Kotlin
+  description: Statically typed Programming Language targeting JVM and JavaScript
+  website_url: https://kotlinlang.org/
+  open_source: true
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML
+  detection_source: Repo Metadata
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/tests/unit/_internal/bento/simplebento/environment.yaml
+  detection_source: tests/unit/_internal/bento/simplebento/environment.yaml
+  last_updated_by: Zhao Shenyang
+  last_updated_on: 2022-01-17 08:08:14.000000000 Z
+- name: Rust
+  description: A safe, concurrent, practical language
+  website_url: http://www.rust-lang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML
+  detection_source: Repo Metadata
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/tests/unit/_internal/bento/simplebento/environment.yaml
+  detection_source: tests/unit/_internal/bento/simplebento/environment.yaml
+  last_updated_by: Zhao Shenyang
+  last_updated_on: 2022-01-17 08:08:14.000000000 Z
+- name: FastAPI
+  description: A high performance, easy to learn, fast to code, ready for production
+    web framework
+  website_url: https://fastapi.tiangolo.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/25014/default_f6ff39141b468e832d1bc59fc98a060df604d44d.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/tests/e2e/bento_server_http/requirements.txt
+  detection_source: tests/e2e/bento_server_http/requirements.txt
+  last_updated_by: Aaron Pham
+  last_updated_on: 2022-10-24 20:29:52.000000000 Z
+- name: Protobuf
+  description: Google's data interchange format
+  website_url: https://developers.google.com/protocol-buffers/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Serialization Frameworks
+  image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/grpc-client/go/go.mod
+  detection_source: grpc-client/go/go.mod
+  last_updated_by: Aaron Pham
+  last_updated_on: 2022-09-27 07:00:44.000000000 Z
+- name: gRPC
+  description: A high performance, open-source universal RPC framework
+  website_url: https://grpc.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Remote Procedure Call (RPC)
+  image_url: https://img.stackshare.io/service/4670/default_d811b0ac72205af84aca21f967594338580be913.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/grpc-client/go/go.mod
+  detection_source: grpc-client/go/go.mod
+  last_updated_by: Aaron Pham
+  last_updated_on: 2022-09-27 07:00:44.000000000 Z
+- name: SQLite
+  description: A software library that implements a self-contained, serverless, zero-configuration,
+    transactional SQL database engine
+  website_url: http://www.sqlite.org/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1071/sqlite.jpg
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/tests/unit/_internal/bento/simplebento/environment.yaml
+  detection_source: tests/unit/_internal/bento/simplebento/environment.yaml
+  last_updated_by: Zhao Shenyang
+  last_updated_on: 2022-01-17 08:08:14.000000000 Z
+- name: Codecov
+  description: Hosted coverage reports with awesome features to enhance your CI workflow
+  website_url: https://codecov.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/codecov.yml
+  detection_source: codecov.yml
+  last_updated_by: Aaron Pham
+  last_updated_on: 2021-11-13 09:54:20.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/.github/workflows/ci.yml
+  detection_source: ".github/workflows/ci.yml"
+  last_updated_by: Frost Ming
+  last_updated_on: 2024-01-22 11:46:37.000000000 Z
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/grpc-client/java/build.gradle
+  detection_source: grpc-client/java/build.gradle
+  last_updated_by: Aaron Pham
+  last_updated_on: 2022-09-27 07:00:44.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/tests/unit/_internal/bento/simplebento/environment.yaml
+  detection_source: tests/unit/_internal/bento/simplebento/environment.yaml
+  last_updated_by: Zhao Shenyang
+  last_updated_on: 2022-01-17 08:08:14.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/tests/unit/_internal/bento/simplebento/environment.yaml
+  detection_source: tests/unit/_internal/bento/simplebento/environment.yaml
+  last_updated_by: Zhao Shenyang
+  last_updated_on: 2022-01-17 08:08:14.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/tests/unit/_internal/bento/simplebento/environment.yaml
+  detection_source: tests/unit/_internal/bento/simplebento/environment.yaml
+  last_updated_by: Zhao Shenyang
+  last_updated_on: 2022-01-17 08:08:14.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/grpc-client/node/yarn.lock
+  detection_source: grpc-client/node/yarn.lock
+  last_updated_by: Aaron Pham
+  last_updated_on: 2022-09-27 07:00:44.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/tests/unit/_internal/bento/simplebento/environment.yaml
+  detection_source: tests/unit/_internal/bento/simplebento/environment.yaml
+  last_updated_by: Zhao Shenyang
+  last_updated_on: 2022-01-17 08:08:14.000000000 Z
+- name: pip
+  description: A package installer for Python
+  website_url: https://pypi.org/project/pip/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5559/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/tests/unit/_internal/bento/simplebento/environment.yaml
+  detection_source: tests/unit/_internal/bento/simplebento/environment.yaml
+  last_updated_by: Zhao Shenyang
+  last_updated_on: 2022-01-17 08:08:14.000000000 Z
+- name: Pillow
+  description: Python Imaging Library
+  website_url: https://python-pillow.github.io/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/tests/e2e/bento_server_grpc/requirements.txt
+  detection_source: tests/e2e/bento_server_grpc/requirements.txt
+  last_updated_by: Aaron Pham
+  last_updated_on: 2022-10-20 01:37:06.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/tests/unit/_internal/bento/simplebento/environment.yaml
+  detection_source: tests/unit/_internal/bento/simplebento/environment.yaml
+  last_updated_by: Zhao Shenyang
+  last_updated_on: 2022-01-17 08:08:14.000000000 Z
+- name: NumPy
+  description: Fundamental package for scientific computing with Python
+  website_url: http://www.numpy.org/
+  version: 1.21.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/tests/unit/_internal/bento/simplebento/environment.yaml
+  detection_source: tests/unit/_internal/bento/simplebento/environment.yaml
+  last_updated_by: Zhao Shenyang
+  last_updated_on: 2022-01-17 08:08:14.000000000 Z
+- name: OpenSSL
+  description: Full-featured toolkit for the Transport Layer Security and Secure Sockets
+    Layer protocols
+  website_url: https://www.openssl.org/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Security
+  image_url: https://img.stackshare.io/service/3091/preview.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/tests/unit/_internal/bento/simplebento/environment.yaml
+  detection_source: tests/unit/_internal/bento/simplebento/environment.yaml
+  last_updated_by: Zhao Shenyang
+  last_updated_on: 2022-01-17 08:08:14.000000000 Z
+- name: SciPy
+  description: Scientific Computing Tools for Python
+  website_url: http://www.scipy.org
+  version: 1.7.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/3303/scipyshiny_small.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/tests/unit/_internal/bento/simplebento/environment.yaml
+  detection_source: tests/unit/_internal/bento/simplebento/environment.yaml
+  last_updated_by: Zhao Shenyang
+  last_updated_on: 2022-01-17 08:08:14.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML
+  detection_source: Repo Metadata
+- name: Torch
+  description: An open-source machine learning library and a script language based
+    on the Lua programming language
+  website_url: http://torch.ch/
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Machine Learning Tools
+  image_url: https://img.stackshare.io/service/4475/hpYQzO_U_400x400.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/examples/inference-graph/requirements.txt
+  detection_source: examples/inference-graph/requirements.txt
+  last_updated_by: Sean Sheng
+  last_updated_on: 2022-07-29 06:31:23.000000000 Z
+- name: scikit-learn
+  description: Easy-to-use and general-purpose machine learning in Python
+  website_url: http://scikit-learn.org/stable/
+  version: 1.0.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Machine Learning Tools
+  image_url: https://img.stackshare.io/service/2657/scikit-learn-logo.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/tests/integration/frameworks/mlflow/NoPyfunc/requirements.txt
+  detection_source: tests/unit/_internal/bento/simplebento/environment.yaml
+  last_updated_by: Zhao Shenyang
+  last_updated_on: 2022-01-17 08:08:14.000000000 Z
+- name: setuptools
+  website_url: https://github.com/pypa/setuptools
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10517/647025.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/tests/unit/_internal/bento/simplebento/environment.yaml
+  detection_source: tests/unit/_internal/bento/simplebento/environment.yaml
+  last_updated_by: Zhao Shenyang
+  last_updated_on: 2022-01-17 08:08:14.000000000 Z
+- name: PyYAML
+  description: YAML parser and emitter for Python
+  package_url: https://pypi.org/project/PyYAML
+  version: '5.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19829/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/pyproject.toml
+  detection_source: pyproject.toml
+  last_updated_by: Aaron Pham
+  last_updated_on: 2023-02-09 05:12:30.000000000 Z
+  vulnerabilities:
+  - name: Improper Input Validation in PyYAML
+    cve_id: CVE-2020-14343
+    cve_url: https://github.com/advisories/GHSA-8q59-q68h-6hv4
+    detected_date: Aug 22
+    severity: critical
+    first_patched: '5.4'
+- name: starlette
+  description: The little ASGI library that shines
+  package_url: https://pypi.org/project/starlette
+  version: 0.24.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20295/default_640b00772a7025571fa2ac02de971e76f9662aa9.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/pyproject.toml
+  detection_source: pyproject.toml
+  last_updated_by: Jakob Thrane
+  last_updated_on: 2023-12-02 04:41:18.000000000 Z
+  vulnerabilities:
+  - name: python-multipart vulnerable to Content-Type Header ReDoS
+    cve_id: CVE-2024-24762
+    cve_url: https://github.com/advisories/GHSA-2jv5-9r88-3w3p
+    detected_date: Feb 17
+    severity: high
+    first_patched: 0.36.2
+  - name: 'Duplicate Advisory: Starlette Content-Type Header ReDoS'
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-93gm-qmq6-w238
+    detected_date: Feb 6
+    severity: high
+    first_patched: 0.36.2
+  - name: 'Duplicate Advisory: Starlette vulnerable to directory traversal'
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-qj8w-rv5x-2v9h
+    detected_date: Jun 6
+    severity: high
+    first_patched: 0.27.0
+  - name: Starlette allows an unauthenticated and remote attacker to specify any number
+      of form fields or files
+    cve_id: CVE-2023-30798
+    cve_url: https://github.com/advisories/GHSA-3qj8-93xh-pwh2
+    detected_date: Apr 22
+    severity: high
+    first_patched: 0.25.0
+  - name: MultipartParser denial of service with too many fields or files
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-74m5-2c7w-9w3x
+    detected_date: Feb 15
+    severity: moderate
+    first_patched: 0.25.0
+  - name: Starlette has Path Traversal vulnerability in StaticFiles
+    cve_id: CVE-2023-29159
+    cve_url: https://github.com/advisories/GHSA-v5gw-mw7f-84px
+    detected_date: May 17
+    severity: low
+    first_patched: 0.27.0
+- name: Jinja2
+  description: A very fast and expressive template engine
+  package_url: https://pypi.org/project/Jinja2
+  version: 3.0.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19836/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/pyproject.toml
+  detection_source: pyproject.toml
+  last_updated_by: Aaron Pham
+  last_updated_on: 2023-07-20 01:45:00.000000000 Z
+  vulnerabilities:
+  - name: Jinja vulnerable to HTML attribute injection when passing user input as
+      keys to xmlattr filter
+    cve_id: CVE-2024-34064
+    cve_url: https://github.com/advisories/GHSA-h75v-3vvj-5mfj
+    detected_date: May 7
+    severity: moderate
+    first_patched: 3.1.4
+- name: aiohttp
+  description: Async http client/server framework
+  package_url: https://pypi.org/project/aiohttp
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19852/default_d748224707283d9d8a73c2323730c87bda6b313a.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/pyproject.toml
+  detection_source: pyproject.toml
+  last_updated_by: Aaron Pham
+  last_updated_on: 2023-10-12 17:59:39.000000000 Z
+- name: attrs
+  description: Classes Without Boilerplate
+  package_url: https://pypi.org/project/attrs
+  version: 22.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19857/default_4a8a8fdc10130068bf295812b98e9b72fb42fe70.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/pyproject.toml
+  detection_source: pyproject.toml
+  last_updated_by: Frost Ming
+  last_updated_on: 2024-02-05 04:37:24.000000000 Z
+- name: cattrs
+  description: Composable complex class support for attrs
+  package_url: https://pypi.org/project/cattrs
+  version: 22.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20384/default_7b61839e75a7cebc498b55310254338ecd1b0b7c.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/pyproject.toml
+  detection_source: pyproject.toml
+  last_updated_by: Frost Ming
+  last_updated_on: 2024-02-05 04:37:24.000000000 Z
+- name: click
+  description: Composable command line interface toolkit
+  package_url: https://pypi.org/project/click
+  version: '7.0'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19830/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/pyproject.toml
+  detection_source: pyproject.toml
+  last_updated_by: Aaron Pham
+  last_updated_on: 2023-07-20 01:45:00.000000000 Z
+- name: cloudpickle
+  description: Extended pickling support for Python objects
+  package_url: https://pypi.org/project/cloudpickle
+  version: 2.0.0
+  license: BSD-1-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20066/default_bb49fb0188726b8922387d8bb6e9b2cd0c3c0ea9.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/pyproject.toml
+  detection_source: pyproject.toml
+  last_updated_by: Aaron Pham
+  last_updated_on: 2023-08-30 01:19:40.000000000 Z
+- name: deepmerge
+  description: A toolset to deeply merge python dictionaries
+  package_url: https://pypi.org/project/deepmerge
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20514/default_18bb83c7f98aaa7340bc5d2ca9b439885b1d95bc.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/pyproject.toml
+  detection_source: pyproject.toml
+  last_updated_by: Aaron Pham
+  last_updated_on: 2023-02-09 05:12:30.000000000 Z
+- name: fs
+  description: Python's filesystem abstraction layer
+  package_url: https://pypi.org/project/fs
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20101/default_029b9bbfb6be2cd34bebeda5b8e1e80a1d22441c.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/pyproject.toml
+  detection_source: pyproject.toml
+  last_updated_by: Aaron Pham
+  last_updated_on: 2021-10-15 08:43:17.000000000 Z
+- name: httpx
+  description: The next generation HTTP client
+  package_url: https://pypi.org/project/httpx
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20315/default_5f4e928dbcb1c4db4050881fc2e0229785fc931c.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/pyproject.toml
+  detection_source: pyproject.toml
+  last_updated_by: Aaron Pham
+  last_updated_on: 2023-10-12 17:59:39.000000000 Z
+- name: inflection
+  description: A port of Ruby on Rails inflector to Python
+  package_url: https://pypi.org/project/inflection
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19983/default_ccb381b493daf0d966e015380e1894fdbc637ad3.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/pyproject.toml
+  detection_source: pyproject.toml
+  last_updated_by: Aaron Pham
+  last_updated_on: 2023-10-12 17:59:39.000000000 Z
+- name: mlflow
+  description: 'MLflow: An ML Workflow Tool'
+  package_url: https://pypi.org/project/mlflow
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/tests/integration/frameworks/mlflow/NoPyfunc/requirements.txt
+  detection_source: tests/integration/frameworks/mlflow/NoPyfunc/requirements.txt
+  last_updated_by: Aaron Pham
+  last_updated_on: 2022-10-20 01:37:06.000000000 Z
+- name: opentelemetry-api
+  description: OpenTelemetry Python API
+  package_url: https://pypi.org/project/opentelemetry-api
+  version: 1.20.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/pyproject.toml
+  detection_source: pyproject.toml
+  last_updated_by: Aaron Pham
+  last_updated_on: 2023-10-12 17:59:39.000000000 Z
+- name: packaging
+  description: Core utilities for Python packages
+  package_url: https://pypi.org/project/packaging
+  version: '22.0'
+  license: BSD-3-Clause,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19894/default_f716e4bc541a9eb6e3f5b7a20d7c35355075b0b4.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/pyproject.toml
+  detection_source: pyproject.toml
+  last_updated_by: Frost Ming
+  last_updated_on: 2023-12-21 01:18:26.000000000 Z
+- name: pandas
+  description: Powerful data structures for data analysis
+  package_url: https://pypi.org/project/pandas
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19837/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/examples/io-descriptors/requirements.txt
+  detection_source: examples/io-descriptors/requirements.txt
+  last_updated_by: Alex Liu
+  last_updated_on: 2024-04-29 07:20:47.000000000 Z
+- name: pathspec
+  description: Utility library for gitignore style pattern matching of file paths
+  package_url: https://pypi.org/project/pathspec
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20261/default_24e344cf78482d8a66297ae9ebea86f00b570483.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/pyproject.toml
+  detection_source: pyproject.toml
+  last_updated_by: Aaron Pham
+  last_updated_on: 2023-07-20 01:45:00.000000000 Z
+- name: pip-tools
+  description: Pip-tools keeps your pinned dependencies fresh
+  package_url: https://pypi.org/project/pip-tools
+  version: 6.6.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20726/default_ce4a377c6ada3db6767eb3c966642d2537ef1d8e.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/pyproject.toml
+  detection_source: pyproject.toml
+  last_updated_by: Aaron Pham
+  last_updated_on: 2024-02-06 10:05:19.000000000 Z
+- name: psutil
+  description: Cross-platform lib for process and system monitoring in Python
+  package_url: https://pypi.org/project/psutil
+  version: 5.8.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19851/default_ac77a75c05474acf9389d56b1f5cc8241af4c384.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/tests/integration/frameworks/mlflow/NoPyfunc/requirements.txt
+  detection_source: pyproject.toml
+  last_updated_by: Aaron Pham
+  last_updated_on: 2023-10-12 17:59:39.000000000 Z
+- name: pyarrow
+  description: Python library for Apache Arrow
+  package_url: https://pypi.org/project/pyarrow
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20366/default_20f72d65682b6cad9939bcf162d0ef14fced900c.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/tests/e2e/bento_server_http/nested/requirements.txt
+  detection_source: tests/e2e/bento_server_http/nested/requirements.txt
+  last_updated_by: bojiang
+  last_updated_on: 2022-03-11 14:33:54.000000000 Z
+- name: pydantic
+  description: Data validation and settings management using python 3.6 type hinting
+  package_url: https://pypi.org/project/pydantic
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20022/default_b0d1a54f127d7017fce41c15f5e85568fb7019ed.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/pyproject.toml
+  detection_source: pyproject.toml
+  last_updated_by: Frost Ming
+  last_updated_on: 2024-01-29 01:54:38.000000000 Z
+- name: pydub
+  description: Manipulate audio with an simple and easy high level interface
+  package_url: https://pypi.org/project/pydub
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/examples/io-descriptors/requirements.txt
+  detection_source: examples/io-descriptors/requirements.txt
+  last_updated_by: Alex Liu
+  last_updated_on: 2024-04-29 07:20:47.000000000 Z
+- name: python-dateutil
+  description: Extensions to the standard Python datetime module
+  package_url: https://pypi.org/project/python-dateutil
+  license: NRL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19833/default_58dbe7b4d7ec447b62773209af0f9a31bbabf5bd.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/pyproject.toml
+  detection_source: pyproject.toml
+  last_updated_by: Frost Ming
+  last_updated_on: 2024-04-01 01:34:47.000000000 Z
+- name: python-json-logger
+  description: A python library adding a json log formatter
+  package_url: https://pypi.org/project/python-json-logger
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20268/default_ac8229927eda3d44316aa5b5d6704388a231bb77.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/pyproject.toml
+  detection_source: pyproject.toml
+  last_updated_by: Frost Ming
+  last_updated_on: 2024-04-01 01:34:47.000000000 Z
+- name: schema
+  description: Simple data validation library
+  package_url: https://pypi.org/project/schema
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20106/default_2ba12a7662d0c37cf453a179c5f8f0558d760422.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/pyproject.toml
+  detection_source: pyproject.toml
+  last_updated_by: Aaron Pham
+  last_updated_on: 2023-02-09 05:12:30.000000000 Z
+- name: tomli
+  description: A lil' TOML parser
+  package_url: https://pypi.org/project/tomli
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/pyproject.toml
+  detection_source: pyproject.toml
+  last_updated_by: Frost Ming
+  last_updated_on: 2024-04-01 01:34:47.000000000 Z
+- name: uvicorn
+  description: The lightning-fast ASGI server
+  package_url: https://pypi.org/project/uvicorn
+  version: 0.22.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20431/default_f824837db22536768ec317b67275fa384fad7d47.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/pyproject.toml
+  detection_source: pyproject.toml
+  last_updated_by: Frost Ming
+  last_updated_on: 2024-05-08 06:20:20.000000000 Z
+- name: com.google.guava:guava
+  description: Guava is a suite of core and expanded libraries that include utility
+    classes
+  version: 30.1.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/grpc-client/java/build.gradle
+  detection_source: grpc-client/java/build.gradle
+  last_updated_by: Frost Ming
+  last_updated_on: 2023-06-02 22:55:00.000000000 Z
+  vulnerabilities:
+  - name: Guava vulnerable to insecure use of temporary directory
+    cve_id: CVE-2023-2976
+    cve_url: https://github.com/advisories/GHSA-7g45-4rm6-3mm3
+    detected_date: Jun 15
+    severity: moderate
+    first_patched: 32.0.0-android
+  - name: Information Disclosure in Guava
+    cve_id: CVE-2020-8908
+    cve_url: https://github.com/advisories/GHSA-5mg8-w23w-74h3
+    detected_date: Aug 22
+    severity: low
+    first_patched: 32.0.0-android
+- name: com.google.protobuf:protobuf-java-util
+  description: Protocol Buffers are a way of encoding structured data in an efficient
+    yet extensible format
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/grpc-client/java/build.gradle
+  detection_source: grpc-client/java/build.gradle
+  last_updated_by: Frost Ming
+  last_updated_on: 2023-06-02 22:55:00.000000000 Z
+- name: io.grpc:grpc-protobuf
+  description: 'GRPC: Protobuf'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/grpc-client/java/build.gradle
+  detection_source: grpc-client/java/build.gradle
+  last_updated_by: Aaron Pham
+  last_updated_on: 2022-09-27 07:00:44.000000000 Z
+- name: io.grpc:grpc-stub
+  description: 'GRPC: Stub'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/grpc-client/java/build.gradle
+  detection_source: grpc-client/java/build.gradle
+  last_updated_by: Aaron Pham
+  last_updated_on: 2022-09-27 07:00:44.000000000 Z
+- name: org.apache.tomcat:annotations-api
+  description: Annotations Package
+  version: 6.0.53
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/grpc-client/java/build.gradle
+  detection_source: grpc-client/java/build.gradle
+  last_updated_by: Aaron Pham
+  last_updated_on: 2022-09-27 07:00:44.000000000 Z
+- name: net
+  description: Go supplementary network libraries
+  package_url: https://pkg.go.dev/golang.org/x/net
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/grpc-client/go/go.sum
+  detection_source: grpc-client/go/go.mod
+  last_updated_by: Aaron Pham
+  last_updated_on: 2022-09-27 07:00:44.000000000 Z
+- name: proto
+  description: Go support for Google's protocol buffers
+  package_url: https://pkg.go.dev/github.com/golang/protobuf/proto
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/grpc-client/go/go.mod
+  detection_source: grpc-client/go/go.mod
+  last_updated_by: Aaron Pham
+  last_updated_on: 2022-09-27 07:00:44.000000000 Z
+- name: sys
+  description: Go packages for low-level interaction with the operating system
+  package_url: https://pkg.go.dev/golang.org/x/sys
+  version: 0.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/grpc-client/go/go.sum
+  detection_source: grpc-client/go/go.mod
+  last_updated_by: Aaron Pham
+  last_updated_on: 2022-09-27 07:00:44.000000000 Z
+- name: text
+  description: Go text processing support
+  package_url: https://pkg.go.dev/golang.org/x/text
+  version: 0.3.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Go Modules Packages
+  image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/grpc-client/go/go.sum
+  detection_source: grpc-client/go/go.mod
+  last_updated_by: Aaron Pham
+  last_updated_on: 2022-09-27 07:00:44.000000000 Z
+- name: google/protobuf
+  description: Proto library for PHP
+  package_url: https://packagist.org/google/protobuf
+  version: 3.19.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/grpc-client/php/composer.json
+  detection_source: grpc-client/php/composer.json
+  last_updated_by: Aaron Pham
+  last_updated_on: 2022-09-27 07:00:44.000000000 Z
+- name: grpc/grpc
+  description: GRPC library for PHP
+  package_url: https://packagist.org/grpc/grpc
+  version: 1.42.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/grpc-client/php/composer.json
+  detection_source: grpc-client/php/composer.json
+  last_updated_by: Aaron Pham
+  last_updated_on: 2022-09-27 07:00:44.000000000 Z
+- name: google-protobuf
+  description: Protocol Buffers for JavaScript
+  package_url: https://www.npmjs.com/google-protobuf
+  version: 3.21.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17483/default_8c4651c288471a00b2fd6f2055b6de29cb9a049d.png
+  detection_source_url: https://github.com/DrivenIdeaLab/BentoML/blob/main/grpc-client/node/yarn.lock
+  detection_source: grpc-client/node/package.json
+  last_updated_by: Aaron Pham
+  last_updated_on: 2022-09-27 07:00:44.000000000 Z
